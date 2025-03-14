@@ -1,0 +1,16 @@
+body {
+    background-image: url(FT2.jpg);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    font-family: Verdana;
+}
+
+ul {
+    color: white;
+    font-size: 30px;
+    font-family: Verdana;
+}

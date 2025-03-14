@@ -1,0 +1,139 @@
+body {
+    background-image: url(Barbearia\ Camisa\ 10.jpg);
+}
+
+h1 {
+    font-family: Tahoma;
+    color: white;
+    font-size: 70px;
+    text-align: center;
+}
+
+.txt {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    position: absolute;
+    top: 250px;
+    left: 140px;
+}
+
+.barber {
+    width: 700px;
+    position: absolute;
+    border: 7px solid white;
+    top: 400px;
+    left: 25%;
+    border-radius: 50px;
+}
+
+.hora {
+    width: 400px;
+    height: 70px;
+    background-color: green;
+    border-radius: 50px;
+    border: 5px solid white;
+    position: absolute;
+    top: 740px;
+    right: 15px;
+    color: white;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+.preco {
+    width: 300px;
+    height: 400px;
+    background-color: green;
+    border: 7px solid white;
+    border-radius: 50px;
+    position: absolute;
+    top: 400px;
+    left: 30px;
+}
+
+.campo {
+    width: 300px;
+    position: absolute;
+    top: 400px;
+    left: 40px;
+    border: 7px solid white;
+    border-radius: 50px;
+    z-index: -1;
+}
+
+.plan {
+    color: white;
+    font-family: Verdana;
+    font-size: 40px;
+    position: absolute;
+    top: 420px;
+    left: 135px;
+}
+
+a {
+    color: white;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+.plano {
+    color: white;
+    position: absolute;
+    font-family: Verdana;
+    font-size: 30px;
+    top: 530px;
+    left: 50px;
+}
+
+.grad {
+    width: 300px;
+    height: 450px;
+    background-color: black;
+    position: absolute;
+    left: 40px;
+    top: 400px;
+    border-radius: 50px;
+    opacity: 70%;
+    border: 7px solid white;
+    z-index: -1;
+}
+
+.campo:hover {
+    transform: scale(1.16);
+    transition: 1.02s;
+}
+
+.grad:hover {
+    transform: scale(1.05);
+    transition: 1.02s;
+}
+
+.corte {
+    font-family: Verdana;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 580px;
+    left: 125px;
+}
+
+.nove {
+    font-family: Verdana;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    top: 620px;
+    left: 100px;
+}
+
+.planoo {
+    background-color: green;
+    border: 7px solid white;
+    width: 200px;
+    height: 70px;
+    position: absolute;
+    top: 730px;
+    left: 100px;
+    border-radius: 50px;
+}
