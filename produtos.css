@@ -9,8 +9,17 @@ h1 {
     font-family: Verdana;
 }
 
-ul {
+nav li {
     color: white;
     font-size: 30px;
     font-family: Verdana;
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+ nav a {
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
 }

@@ -54,6 +54,7 @@ h1 {
 
 .campo {
     width: 300px;
+    height: 400px;
     position: absolute;
     top: 400px;
     left: 40px;
@@ -88,7 +89,7 @@ a {
 
 .grad {
     width: 300px;
-    height: 450px;
+    height: 400px;
     background-color: black;
     position: absolute;
     left: 40px;
@@ -97,16 +98,6 @@ a {
     opacity: 70%;
     border: 7px solid white;
     z-index: -1;
-}
-
-.campo:hover {
-    transform: scale(1.16);
-    transition: 1.02s;
-}
-
-.grad:hover {
-    transform: scale(1.05);
-    transition: 1.02s;
 }
 
 .corte {
@@ -133,7 +124,19 @@ a {
     width: 200px;
     height: 70px;
     position: absolute;
-    top: 730px;
+    top: 715px;
     left: 100px;
     border-radius: 50px;
+}
+
+.quad {
+    width: 385px;
+    height: 300px;
+    background-color: green;
+    border: 7px solid white;
+    border-radius: 50px;
+    position: absolute;
+    top: 400px;
+    right: 15px;
+    opacity: 85%;
 }
