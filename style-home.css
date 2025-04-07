@@ -1,0 +1,146 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    font-family: Tahoma;
+    color: black;
+    font-size: 70px;
+    text-align: center;
+}
+
+.txt {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    position: absolute;
+    top: 250px;
+    left: 140px;
+}
+
+.barber {
+    width: 700px;
+    position: absolute;
+    border: 5px solid black;
+    top: 400px;
+    left: 25%;
+    border-radius: 50px;
+}
+
+.hora {
+    width: 400px;
+    height: 70px;
+    background-color: #b3b3b3;
+    border-radius: 50px;
+    border: 5px solid black;
+    position: absolute;
+    top: 740px;
+    right: 15px;
+    color: black;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+.preco {
+    width: 300px;
+    height: 400px;
+    background-color: green;
+    border: 5px solid black;
+    border-radius: 50px;
+    position: absolute;
+    top: 400px;
+    left: 30px;
+}
+
+.plan {
+    color: black;
+    font-family: Verdana;
+    font-size: 40px;
+    position: absolute;
+    top: 420px;
+    left: 135px;
+}
+
+a {
+    color: white;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+.plano {
+    color: black;
+    position: absolute;
+    font-family: Verdana;
+    font-size: 30px;
+    top: 530px;
+    left: 50px;
+}
+
+.corte {
+    font-family: Verdana;
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 580px;
+    left: 125px;
+}
+
+.nove {
+    font-family: Verdana;
+    font-size: 30px;
+    color: black;
+    position: absolute;
+    top: 620px;
+    left: 100px;
+}
+
+.planoo {
+    background-color: white;
+    border: 5px solid black;
+    width: 200px;
+    height: 70px;
+    position: absolute;
+    top: 715px;
+    left: 100px;
+    border-radius: 50px;
+}
+
+.tpl {
+    text-decoration: none;
+    color: black;
+}
+
+.thr {
+    text-decoration: none;
+    color: black;
+}
+
+.box {
+    width: 300px;
+    height: 390px;
+    background-color: #b3b3b3;
+    border: 5px solid black;
+    border-radius: 30px;
+    position: absolute;
+    top: 400px;
+    left: 40px;
+    z-index: -1;
+}
+
+.lg {
+    background-color: #b3b3b3;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 400px;
+    left: 1160px;
+    border-radius: 30px;
+    border: 5px solid black;
+}
+
+.logo {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    border-radius: 30px;
+}

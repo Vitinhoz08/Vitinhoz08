@@ -1,0 +1,74 @@
+header {
+    background-color: #b3b3b3;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1536px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.home {
+    color: black;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    position: absolute;
+    top: 125px;
+    left: 300px;
+}
+
+.home:hover {
+    color: white;
+    transition: 0.6s;
+}
+
+.producto {
+    color: black;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    position: absolute;
+    top: 125px;
+    left: 450px;
+}
+
+.producto:hover {
+    color: white;
+    transition: 0.6s;
+}
+
+.contato {
+    color: black;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    position: absolute;
+    top: 125px;
+    left: 675px;
+}
+
+.contato:hover {
+    color: white;
+    transition: 0.6s
+}
+
+.nomesobrenome {
+    position: absolute;
+    top: 400px;
+}
+
+.email {
+    position: absolute;
+    top: 600px;
+}
+
+.telefone {
+    position: absolute;
+    top: 500px;
+}
+
+.data {
+    position: absolute;
+    top: 800px;
+}
