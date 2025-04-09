@@ -28,14 +28,14 @@ h1 {
 }
 
 .hora {
-    width: 400px;
+    width: 315px;
     height: 70px;
     background-color: #b3b3b3;
     border-radius: 50px;
     border: 5px solid black;
     position: absolute;
     top: 740px;
-    right: 15px;
+    left: 800px;
     color: black;
     font-family: Verdana;
     font-size: 20px;
@@ -57,8 +57,8 @@ h1 {
     font-family: Verdana;
     font-size: 40px;
     position: absolute;
-    top: 420px;
-    left: 135px;
+    top: 25px;
+    left: 90px;
 }
 
 a {
@@ -72,8 +72,8 @@ a {
     position: absolute;
     font-family: Verdana;
     font-size: 30px;
-    top: 530px;
-    left: 50px;
+    top: 130px;
+    left: 40px;
 }
 
 .corte {
@@ -81,8 +81,8 @@ a {
     font-size: 30px;
     color: black;
     position: absolute;
-    top: 580px;
-    left: 125px;
+    top: 215px;
+    left: 85px;
 }
 
 .nove {
@@ -90,24 +90,8 @@ a {
     font-size: 30px;
     color: black;
     position: absolute;
-    top: 620px;
-    left: 100px;
-}
-
-.planoo {
-    background-color: white;
-    border: 5px solid black;
-    width: 200px;
-    height: 70px;
-    position: absolute;
-    top: 715px;
-    left: 100px;
-    border-radius: 50px;
-}
-
-.tpl {
-    text-decoration: none;
-    color: black;
+    top: 280px;
+    left: 45px;
 }
 
 .thr {
@@ -123,7 +107,7 @@ a {
     border-radius: 30px;
     position: absolute;
     top: 400px;
-    left: 40px;
+    left: 400px;
     z-index: -1;
 }
 
@@ -133,7 +117,7 @@ a {
     height: 300px;
     position: absolute;
     top: 400px;
-    left: 1160px;
+    left: 800px;
     border-radius: 30px;
     border: 5px solid black;
 }
@@ -143,4 +127,9 @@ a {
     top: 25px;
     left: 25px;
     border-radius: 30px;
+}
+
+.a {
+    position: absolute;
+    top: 1000px;
 }
